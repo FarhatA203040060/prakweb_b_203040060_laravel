@@ -32,7 +32,7 @@
                 <li>
                   <form action="/logout" method="post" >
                       @csrf
-                    <button type="submit" class="">><i class="bi bi-box-arrow-right"></i> Logout</button>
+                    <button type="submit" class="nav-link px-3 border-0 text-reset bg-transparent"><i class="bi bi-box-arrow-right"></i> Logout</button>
                   </form>
                 </li>
               </ul>
